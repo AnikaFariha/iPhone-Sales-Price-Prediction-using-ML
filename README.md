@@ -1,5 +1,10 @@
-
 # iPhone Sales Price Prediction using Machine Learning
+
+Submitted by: Anika Fariha Chowdhury
+Student ID: 24264037
+Course: BAN644-Applied Machine Learning for Business Analytics with Python
+Project Type: Regression Problem
+Dataset: iphone_sales_dataset.csv
 
 ## Project Overview
 
